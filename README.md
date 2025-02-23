@@ -15,7 +15,7 @@ This repository contains a **Java-based Quiz Game System** developed as part of 
 ---
 
  📂 Project Structure
-OIBSIP/ │── QUIZ GAME/ │ ├── src/ (Java source files) │ ├── Quiz.sql (Database dump for Quiz system) │ ├── Quiz.json (JSON file used in the project) │── README.md
+OIBSIP_Quiz_App/ │── QUIZ GAME/ │ ├── src/ (Java source files) │ ├── Quiz.sql (Database dump for Quiz system) │ ├── Quiz.json (JSON file used in the project) │── README.md
 
 
 ---
