@@ -1,0 +1,102 @@
+[
+  {
+    "question": "What does JVM stand for?",
+    "options": ["Java Variable Manager", "Java Virtual Machine", "Java Value Method", "Java Version Manager"],
+    "correctAnswer": "Java Virtual Machine"
+  },
+  {
+    "question": "Which of the following is a valid data type in Java?",
+    "options": ["int", "String", "boolean", "All of the above"],
+    "correctAnswer": "All of the above"
+  },
+  {
+    "question": "Which keyword is used to declare a constant in Java?",
+    "options": ["const", "final", "static", "constant"],
+    "correctAnswer": "final"
+  },
+  {
+    "question": "What is the default value of a boolean in Java?",
+    "options": ["true", "false", "0", "null"],
+    "correctAnswer": "false"
+  },
+  {
+    "question": "Which method starts a thread in Java?",
+    "options": ["run()", "start()", "execute()", "begin()"],
+    "correctAnswer": "start()"
+  },
+  {
+    "question": "Which package is used for input/output in Java?",
+    "options": ["java.io", "java.util", "java.net", "java.lang"],
+    "correctAnswer": "java.io"
+  },
+  {
+    "question": "What operator is used for object comparison?",
+    "options": ["==", "equals()", "compare()", "isEqual()"],
+    "correctAnswer": "equals()"
+  },
+  {
+    "question": "What is the size of a float in Java?",
+    "options": ["32 bits", "64 bits", "8 bits", "16 bits"],
+    "correctAnswer": "32 bits"
+  },
+  {
+    "question": "Which of these is not a Java keyword?",
+    "options": ["class", "interface", "method", "package"],
+    "correctAnswer": "method"
+  },
+  {
+    "question": "Which method is used to find the length of an array in Java?",
+    "options": ["length()", "size()", "getLength()", "arraySize()"],
+    "correctAnswer": "length()"
+  },
+  {
+    "question": "Which access modifier allows visibility within the same package?",
+    "options": ["public", "protected", "default", "private"],
+    "correctAnswer": "default"
+  },
+  {
+    "question": "Which class is the superclass of all classes in Java?",
+    "options": ["Object", "Class", "Main", "System"],
+    "correctAnswer": "Object"
+  },
+  {
+    "question": "What is the extension of a compiled Java file?",
+    "options": [".java", ".class", ".javac", ".exe"],
+    "correctAnswer": ".class"
+  },
+  {
+    "question": "Which keyword is used to inherit a class in Java?",
+    "options": ["extend", "extends", "inherit", "implements"],
+    "correctAnswer": "extends"
+  },
+  {
+    "question": "What is a collection of methods with no implementation called?",
+    "options": ["Class", "Abstract Class", "Interface", "Object"],
+    "correctAnswer": "Interface"
+  },
+  {
+    "question": "Which exception is thrown when a file is not found?",
+    "options": ["IOException", "FileNotFoundException", "Exception", "RuntimeException"],
+    "correctAnswer": "FileNotFoundException"
+  },
+  {
+    "question": "Which of these is used to perform all input and output operations in Java?",
+    "options": ["Streams", "Variables", "Data Types", "Classes"],
+    "correctAnswer": "Streams"
+  },
+  {
+    "question": "Which of the following is not a type of loop in Java?",
+    "options": ["for", "while", "do-while", "foreach"],
+    "correctAnswer": "foreach"
+  },
+  {
+    "question": "What does the `final` keyword do when applied to a class?",
+    "options": ["Allows inheritance", "Prevents inheritance", "Allows method overriding", "Prevents method overriding"],
+    "correctAnswer": "Prevents inheritance"
+  },
+  {
+    "question": "What is the default value of a String variable in Java?",
+    "options": ["empty string", "null", "undefined", "0"],
+    "correctAnswer": "null"
+  }
+]
