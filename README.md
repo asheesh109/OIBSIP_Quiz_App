@@ -1,6 +1,6 @@
  🎯 Quiz Game System
 
-This repository contains a **Java-based Quiz Game System** developed as part of my internship at **Oasis Infobyte**. This project showcases my ability to design, develop, and integrate Java applications with MySQL databases using JDBC.
+This repository contains a **Java-based Quiz Game System**. This project showcases my ability to design, develop, and integrate Java applications with MySQL databases using JDBC.
 
 ---
 
@@ -62,6 +62,5 @@ For any queries or discussions, feel free to reach out:
 🔗 GitHub: asheesh109
 🌐 LinkedIn: www.linkedin.com/in/ashishparab03
 
-✅ This project was developed as part of my internship at [Oasis Infobyte].
-💡 Looking forward to more exciting projects and learning opportunities!
+
 
